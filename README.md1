@@ -1,0 +1,30 @@
+# Teacher Job Satisfaction Analysis
+
+## 📌 Project Overview
+This project analyzes teacher job satisfaction using Machine Learning techniques.
+
+## 🎯 Objective
+To predict whether a teacher is satisfied or not based on factors like workload, environment, and work-life balance.
+
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Google Colab
+
+## 🤖 Model Used
+- Random Forest Classifier
+
+## 📊 Results
+The model achieved good accuracy and showed that job satisfaction depends on multiple nonlinear factors.
+
+## 💼 Business Impact
+- Helps schools improve teacher retention
+- Reduces burnout
+- Supports better work-life balance
+
+## 🚀 Future Scope
+- Use larger dataset
+- Try advanced models
+- Deploy as web app
